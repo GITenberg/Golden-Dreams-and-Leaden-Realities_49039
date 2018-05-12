@@ -1,15 +1,21 @@
 _repo: Golden-Dreams-and-Leaden-Realities_49039
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Fogie, Francis
     gutenberg_agent_id: '45106'
     url: http://www.gutenberg.org/2009/agents/45106
+covers:
+- cover_type: archival
+  image_path: 49039-h/images/cover.jpg
 creator:
   author:
     agent_name: Raven, Ralph
     gutenberg_agent_id: '45105'
     url: http://www.gutenberg.org/2009/agents/45105
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49039#Golden-Dreams-and-Leaden-Realities
 gutenberg_issued: '2015-05-24'
 gutenberg_type: Text
 identifiers:
